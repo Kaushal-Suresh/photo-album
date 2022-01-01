@@ -1,5 +1,5 @@
 let mongoose = require('mongoose')
-mongoose.connect('mongodb+srv://Chandana:cvml462ccl4*@mytasker.wknnc.mongodb.net/myFirstDatabase?retryWrites=true&w=majority')
+mongoose.connect('mongodb+srv://kaushal123:2o08Kau$ha!@cluster0.gkjai.mongodb.net/myFirstDatabase?retryWrites=true&w=majority')
   .then(function () {
     console.log('Database connected')
   })
